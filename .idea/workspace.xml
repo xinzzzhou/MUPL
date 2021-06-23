@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="librec-core:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2541c17-1e29-43b3-a5f6-60bec1f3e6c8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/core/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="24632147">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+          <entry key="properties" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="Properties" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="123248994">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="java" value="104" />
+          <entry key="log" value="5" />
+          <entry key="properties" value="52" />
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="104" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Properties" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="371" />
+          <entry key="properties" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="371" />
+          <entry key="Properties" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+    </session>
+    <session id="1213533051">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="144" />
+          <entry key="properties" value="132" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="144" />
+          <entry key="Properties" value="132" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="21" />
+          <entry key="Log" value="3" />
+          <entry key="Properties" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="21" />
+          <entry key="log" value="3" />
+          <entry key="properties" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="791118773">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="properties" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="Properties" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6" />
+          <entry key="properties" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6" />
+          <entry key="Properties" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="-589995106">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="18" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="83" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="18" />
+          <entry key="properties" value="83" />
+          <entry key="props" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1476" />
+          <entry key="properties" value="141" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1476" />
+          <entry key="Properties" value="141" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-1584245368">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="properties" value="3" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="properties" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Properties" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-379916288">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="261874215">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="20" />
+          <entry key="properties" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="20" />
+          <entry key="Properties" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="128" />
+          <entry key="properties" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="128" />
+          <entry key="Properties" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1458363510">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="12" />
+          <entry key="properties" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="12" />
+          <entry key="Properties" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7" />
+          <entry key="properties" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="Properties" value="25" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/test/java/net/librec/recommender/cf/ranking/BPRPlusTestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/job/RecommenderJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="146" column="23" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-0.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>predict(</find>
+      <find>size()</find>
+      <find>total</find>
+      <find>actionCount</find>
+      <find>userAction</find>
+      <find>action</find>
+      <find>actionMean</find>
+      <find>k</find>
+      <find>columnSize</find>
+      <find>EUI</find>
+      <find>colIterator</find>
+      <find>ColIterator</find>
+      <find>RowIterator</find>
+      <find>Ek</find>
+      <find>predict</find>
+      <find>itemPops</find>
+      <find>avgCount</find>
+      <find>max</find>
+      <find>mf</find>
+      <find>eu</find>
+      <find>euNum</find>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test8.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test2.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/model/AbstractDataModel.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/DataModel.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/DataConvertor.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/model/JDBCDataModel.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/convertor/ArffDataConvertor.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/model/ArffDataModel.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/convertor/AbstractDataConvertor.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/DataSplitter.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/model/TextDataModel.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/splitter/LOOCVDataSplitter.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/splitter/KCVDataSplitter.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/splitter/GivenNDataSplitter.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/splitter/GivenTestSetDataSplitter.java" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test33.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/splitter/RatioDataSplitter.java" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/librec-default.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/math/structure/SparseMatrix.java" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/recommender/cf/ranking/BPRRecommender.java" />
+        <option value="$PROJECT_DIR$/log/librec-up-0.01.log" />
+        <option value="$PROJECT_DIR$/log/librec-up-0.0001.log" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/data/convertor/TextDataConvertor.java" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/job/RecommenderJob.java" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-11.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-12.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-13.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-14.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-15.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-16.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-17.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-18.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-19.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-20.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/recommender/AbstractRecommenders.java" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-10.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-9.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-8.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-7.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-6.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-5.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-4.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-3.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-2.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-1.properties" />
+        <option value="$PROJECT_DIR$/core/src/test/java/net/librec/recommender/cf/ranking/BPRPlusTestCase.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/recommender/MatrixFactorizationsRecommender.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/net/librec/recommender/cf/ranking/BPRPlusRecommender.java" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-0.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="642" />
+    <option name="width" value="638" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="librec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03bprplus-popi-allaction-Popi-guiyi-sobazaar-down-hassoftmax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="librec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03bprplus-popi-allaction-Popi-guiyi-sobazaar-down-hassoftmax" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="librec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03bprplus-popi-allaction-Popi-guiyi-sobazaar-down-hassoftmax" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="librec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03bprplus-popi-allaction-Popi-guiyi-sobazaar-down-hassoftmax" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="librec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03bprplus-popi-allaction-Popi-guiyi-sobazaar-down-hassoftmax" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555150513997" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/action" />
+      <recent name="$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking" />
+      <recent name="$PROJECT_DIR$/log" />
+      <recent name="$PROJECT_DIR$/data/action1" />
+      <recent name="$PROJECT_DIR$/data/small" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.librec.recommender" />
+      <recent name="net.librec.recommender.cf.ranking" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/action" />
+      <recent name="$PROJECT_DIR$/data/action1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BPRPlusTestCase.testRecommender">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BPRPlusTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.librec.recommender.cf.ranking.BPRPlusTestRunner" />
+      <module name="librec-core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.librec.recommender.cf.ranking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BPRPlusTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="librec-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.librec.recommender.cf.ranking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.librec.recommender.cf.ranking" />
+      <option name="MAIN_CLASS_NAME" value="net.librec.recommender.cf.ranking.BPRPlusTestCase" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BPRPlusTestCase.testRecommender" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="librec-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.librec.recommender.cf.ranking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.librec.recommender.cf.ranking" />
+      <option name="MAIN_CLASS_NAME" value="net.librec.recommender.cf.ranking.BPRPlusTestCase" />
+      <option name="METHOD_NAME" value="testRecommender" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BPRTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="librec-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.librec.recommender.cf.ranking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.librec.recommender.cf.ranking" />
+      <option name="MAIN_CLASS_NAME" value="net.librec.recommender.cf.ranking.BPRTestCase" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BPRTestCase.testRecommender" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="librec-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.librec.recommender.cf.ranking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.librec.recommender.cf.ranking" />
+      <option name="MAIN_CLASS_NAME" value="net.librec.recommender.cf.ranking.BPRTestCase" />
+      <option name="METHOD_NAME" value="testRecommender" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BPRPlusTestCase.testRecommender" />
+      <item itemvalue="JUnit.BPRPlusTestCase" />
+      <item itemvalue="Application.BPRPlusTestRunner" />
+      <item itemvalue="JUnit.BPRTestCase.testRecommender" />
+      <item itemvalue="JUnit.BPRTestCase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BPRPlusTestCase.testRecommender" />
+        <item itemvalue="JUnit.BPRPlusTestCase" />
+        <item itemvalue="JUnit.BPRTestCase.testRecommender" />
+        <item itemvalue="JUnit.BPRTestCase" />
+        <item itemvalue="Application.BPRPlusTestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2541c17-1e29-43b3-a5f6-60bec1f3e6c8" name="Default" comment="" />
+      <created>1522225099741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522225099741</updated>
+      <workItem from="1534172158118" duration="2886000" />
+      <workItem from="1534225874481" duration="1280000" />
+      <workItem from="1534250173064" duration="384000" />
+      <workItem from="1534257745543" duration="3699000" />
+      <workItem from="1534345472772" duration="4997000" />
+      <workItem from="1535525074528" duration="3437000" />
+      <workItem from="1535547805686" duration="3298000" />
+      <workItem from="1535555708013" duration="491000" />
+      <workItem from="1535628909935" duration="1302000" />
+      <workItem from="1535630756630" duration="2604000" />
+      <workItem from="1535634738169" duration="1044000" />
+      <workItem from="1535678103602" duration="18705000" />
+      <workItem from="1535769471770" duration="2638000" />
+      <workItem from="1535788091166" duration="2676000" />
+      <workItem from="1535791182611" duration="3177000" />
+      <workItem from="1535802613224" duration="7605000" />
+      <workItem from="1535854065851" duration="28000" />
+      <workItem from="1535883352247" duration="175000" />
+      <workItem from="1536026219147" duration="12000" />
+      <workItem from="1536026314589" duration="554000" />
+      <workItem from="1536078136369" duration="343000" />
+      <workItem from="1536152820172" duration="41000" />
+      <workItem from="1536154490092" duration="3523000" />
+      <workItem from="1536195309842" duration="3175000" />
+      <workItem from="1536214560557" duration="70000" />
+      <workItem from="1536501429423" duration="292000" />
+      <workItem from="1536675456323" duration="5305000" />
+      <workItem from="1536836174404" duration="478000" />
+      <workItem from="1536838061041" duration="16500000" />
+      <workItem from="1537095268569" duration="3448000" />
+      <workItem from="1537107531724" duration="3712000" />
+      <workItem from="1537155864984" duration="2135000" />
+      <workItem from="1537185893319" duration="958000" />
+      <workItem from="1537272555897" duration="844000" />
+      <workItem from="1539266998305" duration="810000" />
+      <workItem from="1553763976216" duration="316000" />
+      <workItem from="1553764822742" duration="457000" />
+      <workItem from="1553765540297" duration="413000" />
+      <workItem from="1554817773835" duration="226000" />
+      <workItem from="1554858098931" duration="1203000" />
+      <workItem from="1554860811496" duration="1038000" />
+      <workItem from="1554945117964" duration="5025000" />
+      <workItem from="1554959188398" duration="4157000" />
+      <workItem from="1555073908060" duration="840000" />
+      <workItem from="1555127821988" duration="150000" />
+      <workItem from="1555140320431" duration="4000" />
+      <workItem from="1555140566800" duration="6000" />
+      <workItem from="1555149845985" duration="671000" />
+      <workItem from="1555425183726" duration="1335000" />
+      <workItem from="1556281224137" duration="862000" />
+      <workItem from="1556421389747" duration="1204000" />
+      <workItem from="1557058732648" duration="218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BPRPlusTestCase_testRecommender - 2019.04.13 at 11h 57m 44s.xml">
+      <configuration name="BPRPlusTestCase.testRecommender" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BPRPlusTestCase_testRecommender - 2019.04.13 at 11h 58m 47s.xml">
+      <configuration name="BPRPlusTestCase.testRecommender" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BPRPlusTestCase_testRecommender - 2019.04.13 at 18h 15m 02s.xml">
+      <configuration name="BPRPlusTestCase.testRecommender" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BPRPlusTestCase_testRecommender - 2019.04.26 at 20h 23m 34s.xml">
+      <configuration name="BPRPlusTestCase.testRecommender" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BPRPlusTestCase_testRecommender - 2019.04.26 at 20h 24m 07s.xml">
+      <configuration name="BPRPlusTestCase.testRecommender" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BPRPlusTestCase_testRecommender - 2019.04.26 at 20h 41m 07s.xml">
+      <configuration name="BPRPlusTestCase.testRecommender" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BPRPlusTestCase_testRecommender - 2019.04.28 at 11h 28m 14s.xml">
+      <configuration name="BPRPlusTestCase.testRecommender" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BPRPlusTestCase_testRecommender - 2019.04.28 at 11h 33m 55s.xml">
+      <configuration name="BPRPlusTestCase.testRecommender" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BPRPlusTestCase_testRecommender - 2019.04.28 at 11h 36m 06s.xml">
+      <configuration name="BPRPlusTestCase.testRecommender" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BPRPlusTestCase_testRecommender - 2019.05.05 at 20h 19m 59s.xml">
+      <configuration name="BPRPlusTestCase.testRecommender" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120751000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20355412" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.67945206" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.690411" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328877" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/net/librec/recommender/cf/ranking/BPRPlusRecommender.java</url>
+          <line>178</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/guava-19.0.jar!/com/google/common/collect/StandardTable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/lib/guava-19.0.jar!/com/google/common/collect/HashBasedTable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/math/structure/SparseMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="411" column="6" lean-forward="true" selection-start-line="411" selection-start-column="6" selection-end-line="411" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/recommender/AbstractRecommender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="502" column="4" selection-start-line="502" selection-start-column="4" selection-end-line="502" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/librec-up-lr0.01-std0.01.log" />
+    <entry file="file://$PROJECT_DIR$/log/librec-up-lr0.0001-std-0.01.log" />
+    <entry file="file://$PROJECT_DIR$/log/librec1.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="165">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/librec.log">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-22298">
+          <caret line="106000" selection-start-line="106000" selection-end-line="106200" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="562">
+          <caret line="110272" column="83" selection-start-line="110272" selection-start-column="83" selection-end-line="110272" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test5.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="16" lean-forward="true" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/driver.classes.props">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test12.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-11.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-12.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-13.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-15.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-17.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-18.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-16.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-20.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-14.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-19.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/action/Sobazaar_purchase_r.txt" />
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar!/org/apache/commons/logging/impl/Log4JLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/math/algorithm/Randoms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/recommender/cf/ranking/BPRRecommender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="78" column="36" selection-start-line="78" selection-start-column="36" selection-end-line="78" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/data/DataModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/data/model/AbstractDataModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/data/DataConvertor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/librec-default.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/data/model/TextDataModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="93" column="27" selection-start-line="93" selection-start-column="27" selection-end-line="93" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/data/convertor/TextDataConvertor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2851">
+          <caret line="251" column="47" selection-start-line="251" selection-start-column="47" selection-end-line="251" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-9.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-10.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-8.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-7.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-6.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-5.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-4.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-3.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-1.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-2.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/recommender/MatrixFactorizationsRecommender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="117" column="21" selection-start-line="117" selection-start-column="21" selection-end-line="117" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/recommender/cf/ranking/BPRPlusRecommender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/test/java/net/librec/recommender/cf/ranking/BPRPlusTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/job/RecommenderJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="146" column="23" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/recommender/Recommender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/net/librec/recommender/AbstractRecommenders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="305" column="16" selection-start-line="305" selection-start-column="16" selection-end-line="305" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/rec/cf/ranking/bprplus-test1-0.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>librec-core:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>librec</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.guava:guava:15.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

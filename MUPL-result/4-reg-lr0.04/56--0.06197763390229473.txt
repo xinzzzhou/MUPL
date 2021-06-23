@@ -1,0 +1,8 @@
+Evaluator value:AUC top 10 is 0.7726948352949543
+Evaluator value:Novelty top 10 is 99.73162231688278
+Evaluator value:RECALL top 10 is 0.4720600230764061
+Evaluator value:NDCG top 10 is 0.32987332079505016
+Evaluator value:AP top 10 is 0.27084297693528553
+Evaluator value:Entropy top 10 is 83.54705694623966
+Evaluator value:PRECISION top 10 is 0.06197763390229473
+Evaluator value:RR top 10 is 0.3075202967198255
